@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente <AppGifs /> Mostar el componente 1`] = `
+<Fragment>
+  <h1>
+    APPGIFS
+  </h1>
+  <AddCategories
+    setCategories={[Function]}
+  />
+  <br />
+  <ol>
+    <GifGrid
+      category="Perfect"
+      key="Perfect"
+    />
+  </ol>
+</Fragment>
+`;

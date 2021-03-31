@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente <AddCategories /> Fotografiar el component AddCategories 1`] = `
+<Fragment>
+  <h2>
+    SEARCH GIFS
+  </h2>
+  <form
+    action="#"
+    onSubmit={[Function]}
+  >
+    <input
+      onChange={[Function]}
+      placeholder="Write..."
+      type="text"
+    />
+    <button
+      onClick={[Function]}
+    >
+      Search
+    </button>
+  </form>
+</Fragment>
+`;
